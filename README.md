@@ -19,6 +19,8 @@ This wiki is a quickly made file just to document some of the Lua objects in Ste
 
 [`THEME`](./wiki/THEME.md)
 
+[`PREFSMAN`](./wiki/PREFSMAN.md)
+
 
 ## Not fixed yet
 [`STATMAN`]()
@@ -40,8 +42,6 @@ This wiki is a quickly made file just to document some of the Lua objects in Ste
 [`SONGMAN`]()
 
 [`SOUND`]()
-
-[`PREFSMAN`]()
 
 [`GAMEMAN`]()
 
